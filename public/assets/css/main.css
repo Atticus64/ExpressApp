@@ -295,6 +295,16 @@
 		margin: -4em 0 -1px -4em;
 	}
 
+	.nav-menu {
+		transition: transform .5s ease-in-out;
+    	transform: translate(110%);
+	}
+
+
+	:root{
+    	scroll-behavior: smooth;
+	}
+
 	.row.\31 50\25 > * {
 		padding: 0 0 0 3em;
 	}
@@ -3531,7 +3541,6 @@
 			right: 0;
 			text-align: right;
 			top: 0;
-			vertical-align: middle;
 			width: 7em;
 		}
 
