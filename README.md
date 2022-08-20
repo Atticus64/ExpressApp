@@ -8,3 +8,8 @@
 npm install
 ```
 
+## Setup server
+
+```
+npm start
+```
