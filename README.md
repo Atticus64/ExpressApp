@@ -4,7 +4,7 @@
 
 ## Production App
 
-https://express-jona.herokuapp.com/
+https://expressapp-production.up.railway.app/
 
 ## Install dependencies
 
